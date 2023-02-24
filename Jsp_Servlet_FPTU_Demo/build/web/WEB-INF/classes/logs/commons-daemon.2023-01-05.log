@@ -1,0 +1,9 @@
+[2023-01-05 22:04:58] [info]  [11708] Apache Commons Daemon procrun (1.3.2.0 64-bit) started.
+[2023-01-05 22:04:59] [info]  [11708] Running Service 'TomcatVippro'...
+[2023-01-05 22:04:59] [info]  [11752] Starting service...
+[2023-01-05 22:05:01] [info]  [11752] Service started in 2445 milliseconds.
+[2023-01-05 22:07:56] [info]  [13632] Console SHUTDOWN event signaled.
+[2023-01-05 22:07:56] [info]  [13632] Stopping service...
+[2023-01-05 22:07:57] [info]  [13632] Service stop thread completed.
+[2023-01-05 22:07:57] [info]  [11708] Run service finished.
+[2023-01-05 22:07:57] [info]  [11708] Apache Commons Daemon procrun finished.
