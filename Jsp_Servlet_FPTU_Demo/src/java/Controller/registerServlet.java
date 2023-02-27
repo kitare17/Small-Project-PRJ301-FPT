@@ -96,7 +96,10 @@ public class registerServlet extends HttpServlet {
     @Override
     protected void doPost(HttpServletRequest request, HttpServletResponse response)
             throws ServletException, IOException {
+        request.setCharacterEncoding("UTF-8");
+        response.setCharacterEncoding("UTF-8");
         try {
+            
             String id = ramdomID();
             String ten = request.getParameter("ten");
             boolean gioiTinh = Boolean.parseBoolean(request.getParameter("gioiTinh"));
