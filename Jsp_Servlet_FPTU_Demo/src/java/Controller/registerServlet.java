@@ -110,7 +110,7 @@ public class registerServlet extends HttpServlet {
             UserDB.insertUser(user);
             
             System.out.println(id+" "+ten + " " + gioiTinh + " " + ngaySinh + " " + quocTich + " " + diaChi + " " + dienThoai + " " + nganhHoc + " ");
-            String savePath = "E:\\FPTU_Website_Jsp (1)\\Jsp_Servlet_FPTU_Demo\\Jsp_Servlet_FPTU_Demo\\web\\images\\student";
+            String savePath = "D:\\PRJ301-File Project\\FPT_Demo\\Small-Project-PRJ301-FPT\\Jsp_Servlet_FPTU_Demo\\web\\images\\student";
 
             File f = new File(savePath);
 
