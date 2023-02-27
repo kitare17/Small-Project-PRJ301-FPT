@@ -10,7 +10,7 @@
         Chào mừng tân sinh viên đến với Đại học FPT
     </h2>
     <h2 style="color: red;text-align: center ">${thongbao}</h2>
-    <form action="register" method="post"   enctype="multipart/form-data">
+    <form action="register" method="post"   enctype="multipart/form-data" accept-charset="UTF-8">
         <table border="1">
         <thead>
                 <tr>
