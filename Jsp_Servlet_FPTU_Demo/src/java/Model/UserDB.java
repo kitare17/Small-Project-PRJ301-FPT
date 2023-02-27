@@ -20,7 +20,7 @@ import java.util.logging.Logger;
 public class UserDB {
 
     static String userID = "sa";
-    static String password = "123456789";
+    static String password = "sa";
 
     public static Connection getConnect() throws Exception {
         String url = "jdbc:sqlserver://localhost:1433;" + "databaseName=StudentTBL;" + "encrypt=false";
@@ -153,7 +153,7 @@ public class UserDB {
         //insert into formDk values('DE160023',N'Nguyễn Như Ngọc',1,'12-2-2002','Viet Nam','Da Nang','0123456789',N'Kinh tế')
 //        User newUser = new User("DE160023", "Nguyễn Như Ngọc", true, "12-2-2002", "Viet Nam", "Da Nang", "0123456789", "Kinh tế");
 //        insertUser(newUser);
-        User user =findUser("fads");
+        User user =findUser("DE160293");
         System.out.println(user);
 //        for (User user: getAll() ) {
 //            System.out.println(user);

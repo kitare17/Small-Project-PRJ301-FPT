@@ -2,14 +2,6 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group>
-            <file>file:/E:/FPTU_Website_Jsp%20(1)/Jsp_Servlet_FPTU_Demo/Jsp_Servlet_FPTU_Demo/web/includes/list_register_student.jsp</file>
-            <file>file:/E:/FPTU_Website_Jsp%20(1)/Jsp_Servlet_FPTU_Demo/Jsp_Servlet_FPTU_Demo/src/java/Controller/UserInsertServlet.java</file>
-            <file>file:/E:/FPTU_Website_Jsp%20(1)/Jsp_Servlet_FPTU_Demo/Jsp_Servlet_FPTU_Demo/src/java/Controller/FindUserID.java</file>
-            <file>file:/E:/FPTU_Website_Jsp%20(1)/Jsp_Servlet_FPTU_Demo/Jsp_Servlet_FPTU_Demo/web/includes/find_user_form.jsp</file>
-            <file>file:/E:/FPTU_Website_Jsp%20(1)/Jsp_Servlet_FPTU_Demo/Jsp_Servlet_FPTU_Demo/web/ListUser.jsp</file>
-            <file>file:/E:/FPTU_Website_Jsp%20(1)/Jsp_Servlet_FPTU_Demo/Jsp_Servlet_FPTU_Demo/src/java/Controller/ListUserSevlet.java</file>
-            <file>file:/E:/FPTU_Website_Jsp%20(1)/Jsp_Servlet_FPTU_Demo/Jsp_Servlet_FPTU_Demo/src/java/Model/UserDB.java</file>
-        </group>
+        <group/>
     </open-files>
 </project-private>
